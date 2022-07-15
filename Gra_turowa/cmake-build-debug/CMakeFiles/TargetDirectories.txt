@@ -1,0 +1,3 @@
+C:/Users/Natalia/CLionProjects/Gra_turowa/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Natalia/CLionProjects/Gra_turowa/cmake-build-debug/CMakeFiles/Gra_turowa.dir
+C:/Users/Natalia/CLionProjects/Gra_turowa/cmake-build-debug/CMakeFiles/rebuild_cache.dir
